@@ -1,0 +1,11 @@
+question_code,category,question,response_scale
+Q1,Programming,How would you rate your overall programming knowledge?,1-5
+Q2,Web Development,How interested are you in developing websites and web applications?,1-5
+Q3,Mobile Development,How interested are you in developing mobile applications?,1-5
+Q4,Artificial Intelligence,How interested are you in Artificial Intelligence and Machine Learning?,1-5
+Q5,Data & Analytics,How interested are you in Data Science and Business Analytics?,1-5
+Q6,Cloud & DevOps,How interested are you in Cloud Computing and DevOps technologies?,1-5
+Q7,Cyber Security,How interested are you in Cyber Security and Ethical Hacking?,1-5
+Q8,UI/UX Design,How interested are you in UI/UX Design and creating user-friendly interfaces?,1-5
+Q9,Software Testing,How interested are you in Software Testing and Quality Assurance?,1-5
+Q10,Learning Commitment,How many hours per week can you dedicate to learning a new technology?,"1:<5 hrs, 2:5-10 hrs, 3:10-15 hrs, 4:15-20 hrs, 5:>20 hrs"
